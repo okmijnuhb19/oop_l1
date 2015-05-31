@@ -1,0 +1,7 @@
+C:\Users\Andrew\Documents\Visual Studio 2012\Projects\oop_l1\EllipsePlugin\obj\Release\EllipsePlugin.csprojResolveAssemblyReference.cache
+C:\Users\Andrew\Documents\Visual Studio 2012\Projects\oop_l1\EllipsePlugin\bin\Release\EllipsePlugin.dll
+C:\Users\Andrew\Documents\Visual Studio 2012\Projects\oop_l1\EllipsePlugin\bin\Release\EllipsePlugin.pdb
+C:\Users\Andrew\Documents\Visual Studio 2012\Projects\oop_l1\EllipsePlugin\bin\Release\oop_l1.exe
+C:\Users\Andrew\Documents\Visual Studio 2012\Projects\oop_l1\EllipsePlugin\bin\Release\oop_l1.pdb
+C:\Users\Andrew\Documents\Visual Studio 2012\Projects\oop_l1\EllipsePlugin\obj\Release\EllipsePlugin.dll
+C:\Users\Andrew\Documents\Visual Studio 2012\Projects\oop_l1\EllipsePlugin\obj\Release\EllipsePlugin.pdb

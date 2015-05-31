@@ -1,0 +1,9 @@
+c:\users\andrew\documents\visual studio 2012\Projects\oop_l1\oop_l1\bin\Debug\oop_l1.exe.config
+c:\users\andrew\documents\visual studio 2012\Projects\oop_l1\oop_l1\obj\Debug\oop_l1.csprojResolveAssemblyReference.cache
+c:\users\andrew\documents\visual studio 2012\Projects\oop_l1\oop_l1\obj\Debug\oop_l1.Properties.Resources.resources
+c:\users\andrew\documents\visual studio 2012\Projects\oop_l1\oop_l1\obj\Debug\oop_l1.csproj.GenerateResource.Cache
+c:\users\andrew\documents\visual studio 2012\Projects\oop_l1\oop_l1\bin\Debug\oop_l1.exe
+c:\users\andrew\documents\visual studio 2012\Projects\oop_l1\oop_l1\bin\Debug\oop_l1.pdb
+c:\users\andrew\documents\visual studio 2012\Projects\oop_l1\oop_l1\obj\Debug\oop_l1.exe
+c:\users\andrew\documents\visual studio 2012\Projects\oop_l1\oop_l1\obj\Debug\oop_l1.pdb
+c:\users\andrew\documents\visual studio 2012\Projects\oop_l1\oop_l1\obj\Debug\oop_l1.Form1.resources

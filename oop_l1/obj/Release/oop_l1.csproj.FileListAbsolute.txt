@@ -1,0 +1,8 @@
+C:\Users\Andrew\documents\visual studio 2012\Projects\oop_l1\oop_l1\bin\Release\oop_l1.exe.config
+C:\Users\Andrew\documents\visual studio 2012\Projects\oop_l1\oop_l1\bin\Release\oop_l1.exe
+C:\Users\Andrew\documents\visual studio 2012\Projects\oop_l1\oop_l1\bin\Release\oop_l1.pdb
+C:\Users\Andrew\documents\visual studio 2012\Projects\oop_l1\oop_l1\obj\Release\oop_l1.Form1.resources
+C:\Users\Andrew\documents\visual studio 2012\Projects\oop_l1\oop_l1\obj\Release\oop_l1.Properties.Resources.resources
+C:\Users\Andrew\documents\visual studio 2012\Projects\oop_l1\oop_l1\obj\Release\oop_l1.csproj.GenerateResource.Cache
+C:\Users\Andrew\documents\visual studio 2012\Projects\oop_l1\oop_l1\obj\Release\oop_l1.exe
+C:\Users\Andrew\documents\visual studio 2012\Projects\oop_l1\oop_l1\obj\Release\oop_l1.pdb
